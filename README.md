@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# concurrent-programming
+## concurrent-programming
 《实战java高并发程序设计》 葛一鸣 郭超 编著   源码转发
-=======
-# 《实战java高并发程序设计》源码整理
+## 本文转自码云：https://gitee.com/zhenfeng13/concurrent-programming  尊重作者版权
 
 ## 联系作者
 
